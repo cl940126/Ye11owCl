@@ -1,4 +1,4 @@
-package config;
+package test1;
 
 public class demo1 {
 
